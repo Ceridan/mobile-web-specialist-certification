@@ -5,3 +5,6 @@ Repo with some materials for [Google Developers Certification: Mobile Web Specia
 
 - [Responsive Web Design Patterns](https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns)
     - [Pattern examples](/responsive-layout-patterns)
+
+- [Web Fundamentals – Accessibility](https://developers.google.com/web/fundamentals/accessibility/)
+    - [Color contrast checker](https://webaim.org/resources/contrastchecker/)
